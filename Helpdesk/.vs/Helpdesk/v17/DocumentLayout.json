@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|e:\\coding\\gitrepos\\eventsourcing\\eventsourcing.netcore\\sample\\helpdesk\\helpdesk.api\\incidents\\getincidentshortinfo\\incidentshortinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|solutionrelative:helpdesk.api\\incidents\\getincidentshortinfo\\incidentshortinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|e:\\coding\\gitrepos\\eventsourcing\\eventsourcing.netcore\\sample\\helpdesk\\helpdesk.api\\incidents\\getincidenthistory\\incidenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|solutionrelative:helpdesk.api\\incidents\\getincidenthistory\\incidenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|e:\\coding\\gitrepos\\eventsourcing\\eventsourcing.netcore\\sample\\helpdesk\\helpdesk.api\\incidents\\getincidentdetails\\incidentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|solutionrelative:helpdesk.api\\incidents\\getincidentdetails\\incidentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|e:\\coding\\gitrepos\\eventsourcing\\eventsourcing.netcore\\sample\\helpdesk\\helpdesk.api\\core\\marten\\documentsessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|solutionrelative:helpdesk.api\\core\\marten\\documentsessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|e:\\coding\\gitrepos\\eventsourcing\\eventsourcing.netcore\\sample\\helpdesk\\helpdesk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|solutionrelative:helpdesk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|e:\\coding\\gitrepos\\eventsourcing\\eventsourcing.netcore\\sample\\helpdesk\\helpdesk.api\\core\\signalr\\signalrproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|solutionrelative:helpdesk.api\\core\\signalr\\signalrproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|e:\\coding\\gitrepos\\eventsourcing\\eventsourcing.netcore\\sample\\helpdesk\\helpdesk.api\\incidents\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|solutionrelative:helpdesk.api\\incidents\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|e:\\coding\\gitrepos\\eventsourcing\\eventsourcing.netcore\\sample\\helpdesk\\helpdesk.api\\incidents\\incidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9705E-AA25-42F2-A851-4ACEF2337B41}|Helpdesk.Api\\Helpdesk.Api.csproj|solutionrelative:helpdesk.api\\incidents\\incidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3BCB2C-754D-4879-A663-8731CCF0DA2F}|docs{5C3BCB2C-754D-4879-A663-8731CCF0DA2F}|E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5C3BCB2C-754D-4879-A663-8731CCF0DA2F}|docs{5C3BCB2C-754D-4879-A663-8731CCF0DA2F}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FA469-889B-4BC0-BA5A-6A2C85C58387}|docker{DD9FA469-889B-4BC0-BA5A-6A2C85C58387}|E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD9FA469-889B-4BC0-BA5A-6A2C85C58387}|docker{DD9FA469-889B-4BC0-BA5A-6A2C85C58387}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IncidentShortInfo.cs",
+              "DocumentMoniker": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Incidents\\GetIncidentShortInfo\\IncidentShortInfo.cs",
+              "RelativeDocumentMoniker": "Helpdesk.Api\\Incidents\\GetIncidentShortInfo\\IncidentShortInfo.cs",
+              "ToolTip": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Incidents\\GetIncidentShortInfo\\IncidentShortInfo.cs",
+              "RelativeToolTip": "Helpdesk.Api\\Incidents\\GetIncidentShortInfo\\IncidentShortInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:00:19.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignalRProducer.cs",
+              "DocumentMoniker": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Core\\SignalR\\SignalRProducer.cs",
+              "RelativeDocumentMoniker": "Helpdesk.Api\\Core\\SignalR\\SignalRProducer.cs",
+              "ToolTip": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Core\\SignalR\\SignalRProducer.cs",
+              "RelativeToolTip": "Helpdesk.Api\\Core\\SignalR\\SignalRProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T22:43:00.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentSessionExtensions.cs",
+              "DocumentMoniker": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Core\\Marten\\DocumentSessionExtensions.cs",
+              "RelativeDocumentMoniker": "Helpdesk.Api\\Core\\Marten\\DocumentSessionExtensions.cs",
+              "ToolTip": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Core\\Marten\\DocumentSessionExtensions.cs*",
+              "RelativeToolTip": "Helpdesk.Api\\Core\\Marten\\DocumentSessionExtensions.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:46:24.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IncidentHistory.cs",
+              "DocumentMoniker": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Incidents\\GetIncidentHistory\\IncidentHistory.cs",
+              "RelativeDocumentMoniker": "Helpdesk.Api\\Incidents\\GetIncidentHistory\\IncidentHistory.cs",
+              "ToolTip": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Incidents\\GetIncidentHistory\\IncidentHistory.cs",
+              "RelativeToolTip": "Helpdesk.Api\\Incidents\\GetIncidentHistory\\IncidentHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:45:38.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IncidentDetails.cs",
+              "DocumentMoniker": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Incidents\\GetIncidentDetails\\IncidentDetails.cs",
+              "RelativeDocumentMoniker": "Helpdesk.Api\\Incidents\\GetIncidentDetails\\IncidentDetails.cs",
+              "ToolTip": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Incidents\\GetIncidentDetails\\IncidentDetails.cs",
+              "RelativeToolTip": "Helpdesk.Api\\Incidents\\GetIncidentDetails\\IncidentDetails.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAYwBwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:44:16.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Helpdesk.Api\\Program.cs",
+              "ToolTip": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Program.cs",
+              "RelativeToolTip": "Helpdesk.Api\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:42:05.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IncidentService.cs",
+              "DocumentMoniker": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Incidents\\IncidentService.cs",
+              "RelativeDocumentMoniker": "Helpdesk.Api\\Incidents\\IncidentService.cs",
+              "ToolTip": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Incidents\\IncidentService.cs",
+              "RelativeToolTip": "Helpdesk.Api\\Incidents\\IncidentService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAwD4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:27:56.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Incident.cs",
+              "DocumentMoniker": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Incidents\\Incident.cs",
+              "RelativeDocumentMoniker": "Helpdesk.Api\\Incidents\\Incident.cs",
+              "ToolTip": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Incidents\\Incident.cs",
+              "RelativeToolTip": "Helpdesk.Api\\Incidents\\Incident.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAlwB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:23:29.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-16T20:59:54.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-03-16T20:59:43.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

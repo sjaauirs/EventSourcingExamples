@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api.Tests\\Helpdesk.Api.Tests.csproj": {}
+  },
+  "projects": {
+    "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api.Tests\\Helpdesk.Api.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api.Tests\\Helpdesk.Api.Tests.csproj",
+        "projectName": "Helpdesk.Api.Tests",
+        "projectPath": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api.Tests\\Helpdesk.Api.Tests.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Helpdesk.Api.csproj": {
+                "projectPath": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Helpdesk.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.4.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Ogooreck": {
+              "target": "Package",
+              "version": "[0.8.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.6, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Helpdesk.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Helpdesk.Api.csproj",
+        "projectName": "Helpdesk.Api",
+        "projectPath": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\Helpdesk.Api.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "E:\\Coding\\gitRepos\\EventSourcing\\EventSourcing.NetCore\\Sample\\Helpdesk\\Helpdesk.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Marten": {
+              "target": "Package",
+              "version": "[7.0.0-beta.5, )"
+            },
+            "Marten.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0-beta.5, )"
+            },
+            "Marten.CommandLine": {
+              "target": "Package",
+              "version": "[7.0.0-beta.5, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
